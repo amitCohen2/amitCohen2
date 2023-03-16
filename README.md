@@ -37,15 +37,15 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Shalevro2&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Shalevro2&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amitCohen2&theme=dark" />
   </picture>
   
    <picture>
     <source 
-      srcset="https://streak-stats.demolab.com/?user=Shalevro2&theme=highcontrast"
+      srcset="https://streak-stats.demolab.com/?user=amitCohen2&theme=highcontrast"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://streak-stats.demolab.com/?user=Shalevro2&theme=highcontrast" />
+    <img src="https://streak-stats.demolab.com/?user=amitCohen2&theme=highcontrast" />
   </picture>
   
 </div>
