@@ -2,9 +2,13 @@
 
 🎓 I'm Amit Cohen, a Computer Science student at "The Academic College of Tel Aviv-Yaffo".
 
-![image](https://user-images.githubusercontent.com/72393244/212745697-f02cbf6b-65df-4597-a438-b0bb631fa62b.png)
-   I’m currently working on [MeetBalls](https://github.com/redhat-beyond/beyond09-group01) project, at red-had beyond course.
-
+   I’m currently working on:
+   
+   ![image](https://user-images.githubusercontent.com/72393244/212745697-f02cbf6b-65df-4597-a438-b0bb631fa62b.png)
+     [MeetBalls](https://github.com/redhat-beyond/beyond09-group01) project, at red-had beyond course.     
+    🤖 
+     [CryptoBot-Investment](https://github.com/amitCohen2/CryptoBot-Investment) project, app for crypto currencies investors.
+    
 ## 🛠️ Skills
 
 ### Languages
