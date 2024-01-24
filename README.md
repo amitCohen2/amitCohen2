@@ -22,6 +22,7 @@
 ### Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.Net Framework](https://img.shields.io/badge/.Net-00599C?style=for-the-badge&logo=.Net_Framework&logoColor=white)
 
 ### Front-End Development
 
