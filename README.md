@@ -34,7 +34,7 @@
 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 <div align="center">
 
@@ -54,7 +54,7 @@
     <img src="https://streak-stats.demolab.com/?user=amitCohen2&theme=highcontrast" />
   </picture>
   
-</div>
+</div> <!--
 
 ## 🔗 Links
 
