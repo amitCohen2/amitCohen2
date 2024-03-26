@@ -7,7 +7,7 @@
    ![image](https://user-images.githubusercontent.com/72393244/212745697-f02cbf6b-65df-4597-a438-b0bb631fa62b.png)
      [MeetBalls](https://github.com/redhat-beyond/beyond09-group01) project, at red-had beyond course.     
     🤖 [CryptoBot-Investment](https://github.com/amitCohen2/CryptoBot-Investment) project, app for crypto currencies investors.<br>
-     😎 [Facebook-App](https://github.com/amitCohen2/Windows-Facebook-App) Windows Facebook App using Facebook API - added new cool features for facebook.
+     😎 [Facebook-App](https://github.com/amitCohen2/Windows-Facebook-App-Version2) Windows Facebook App using Facebook API and design patterns.
 
     
 ## 🛠️ Skills
