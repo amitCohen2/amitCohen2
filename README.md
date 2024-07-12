@@ -1,6 +1,6 @@
 ## 🤓 About Me
 
-🎓 I'm Amit Cohen, a Computer Science student at "The Academic College of Tel Aviv-Yaffo".
+🎓 I'm Amit Cohen, a Computer Science graduate.
 
    I’m currently working on:
    
